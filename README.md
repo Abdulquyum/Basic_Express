@@ -1,0 +1,1 @@
+Creating a basic Express.js app and Structuring folders to include basic folders for development of application. As required by the Mastering Backend Bootcamp Week 1 Assignment. This app include folders such as Services, Routes, Controllers, Repository.
