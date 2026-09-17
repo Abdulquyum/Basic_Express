@@ -1,0 +1,23 @@
+{
+  "name": "basic_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Abdulquyum/Basic_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulquyum/Basic_Express/issues"
+  },
+  "homepage": "https://github.com/Abdulquyum/Basic_Express#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
